@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **kwameagyapong91@gmail.com**
 
-- ⚡ Fun fact **Building but with codes**
+- ⚡ Fun fact: **Building but with codes**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
