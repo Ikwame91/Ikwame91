@@ -9,7 +9,7 @@
 
 - 
 
-- 🌱 I’m currently learning **flutter,javascrupt,nodejs**
+- 🌱 I’m currently learning **flutter,Javascript,NodeJs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ikwame91](https://github.com/Ikwame91)
 
