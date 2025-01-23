@@ -3,7 +3,7 @@
 <h3 align="center">A mobile developer using flutter</h3>
 <img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/R.c0d1b11e54c2b07f7353dd160e8ba80d?rik=BH2sjO5Vy1%2fC%2fg&pid=ImgRaw&r=0">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ikwame91&label=Profile%20views&color=0e75b6&style=flat" alt="ikwame91" /> </p>
+
 
 <p align="left"> <a href="https://twitter.com/nanhaqwam" target="blank"><img src="https://img.shields.io/twitter/follow/nanhaqwam?logo=twitter&style=for-the-badge" alt="nanhaqwam" /></a> </p>
 
@@ -74,8 +74,6 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikwame91&layout=compact&theme=radical" alt="ikwame91 top languages" /></p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ikwame91&" alt="ikwame91" /></p>
-<p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=ikwame91&label=Profile%20Views&color=blue&style=flat-square" alt="Profile views" /> 
   <a href="https://github.com/ikwame91?tab=followers">
     <img src="https://img.shields.io/github/followers/ikwame91?label=Followers&style=social" alt="GitHub followers" />
