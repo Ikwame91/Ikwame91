@@ -1,6 +1,5 @@
 
 <h1 align="center">Hi 👋, I'm Nana Kwame</h1>
-<h3 align="center">A mobile developer using flutter</h3>
 <img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/R.c0d1b11e54c2b07f7353dd160e8ba80d?rik=BH2sjO5Vy1%2fC%2fg&pid=ImgRaw&r=0">
 
 
@@ -12,7 +11,6 @@
 </p>
 
 
-- 🌱 I’m currently learning **flutter,Javascript,NodeJs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ikwame91](https://github.com/Ikwame91)
 
