@@ -1,31 +1,35 @@
-
 <h1 align="center">Hi 👋, I'm Nana Kwame</h1>
-<img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/R.c0d1b11e54c2b07f7353dd160e8ba80d?rik=BH2sjO5Vy1%2fC%2fg&pid=ImgRaw&r=0">
 
-
-
-<p align="left"> <a href="https://twitter.com/nanhaqwam" target="blank"><img src="https://img.shields.io/twitter/follow/nanhaqwam?logo=twitter&style=for-the-badge" alt="nanhaqwam" /></a> </p>
-
-- <p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ikwame91&theme=radical" alt="GitHub Profile Summary" />
+<p align="center">
+  Backend & Mobile Developer | Flutter • Node.js • Firebase
 </p>
 
+---
 
+### 👨‍💻 About Me
+- 🔭 Building scalable mobile and backend systems
+- 🌱 Currently deepening my backend architecture knowledge
+- 📫 Reach me: **kwameagyapong91@gmail.com**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Ikwame91](https://github.com/Ikwame91)
+---
 
-- 💬**
-
-- 📫 How to reach me **kwameagyapong91@gmail.com**
-
-- ⚡ Fun fact: **Building but with codes**
-
-<h3 align="left">Connect with me:</h3>
+### 🌐 Connect With Me
 <p align="left">
-  <a href="https://twitter.com/nanhaqwam" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="nanhaqwam" height="30" width="40" /></a>
-  <a href="https://dev.to/dev.ikwame" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="dev.ikwame" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/www.linkedin.com/in/kwame-agyapong" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="https://twitter.com/nanhaqwam">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" height="30" width="40"/>
+  </a>
+  <a href="https://dev.to/dev.ikwame">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" height="30" width="40"/>
+  </a>
+  <a href="https://linkedin.com/in/kwame-agyapong">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="40"/>
+  </a>
 </p>
+
+---
+
+### 🛠 Languages & Tools
+Dart • Flutter • Firebase • JavaScript • Node.js • Express • C++
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -66,16 +70,7 @@
 </p>
 
 
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ikwame91&show_icons=true&theme=radical" alt="ikwame91 stats" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ikwame91&theme=radical" alt="ikwame91 streak stats" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikwame91&layout=compact&theme=radical" alt="ikwame91 top languages" /></p>
-
-
-  <img src="https://komarev.com/ghpvc/?username=ikwame91&label=Profile%20Views&color=blue&style=flat-square" alt="Profile views" /> 
-  <a href="https://github.com/ikwame91?tab=followers">
-    <img src="https://img.shields.io/github/followers/ikwame91?label=Followers&style=social" alt="GitHub followers" />
-  </a>
-</p>
-
-
+### 📊 GitHub Activity
+![GitHub Streak](https://streak-stats.demolab.com/?user=ikwame91&theme=radical)
